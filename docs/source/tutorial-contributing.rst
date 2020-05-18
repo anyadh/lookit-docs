@@ -106,6 +106,7 @@ List of tutorial participants
 - Lisa Oakes (UC Davis)
 - Gerwin Legaspi (University of British Columbia)
 - Amanda Cramer (University of Texas at Austin)
+- Anya den Hartog (Queen's University)
 
 .. _Github issues overview:
 
